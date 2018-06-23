@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "image": "https://vignette.wikia.nocookie.net/starwars/images/0/00/Luke_Force_Ghost_Leg0.png/revision/latest?cb=20180315033036",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://vignette.wikia.nocookie.net/theunitedorganizationtoonsheroes/images/8/8e/Anakin_Skywalker.png/revision/latest?cb=20170315183906",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "https://i.pinimg.com/originals/98/57/29/98572970aff981364454212f808ac40f.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://vignette.wikia.nocookie.net/swg/images/c/c5/Obiwan1.jpg/revision/latest?cb=20060320133924",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://vignette.wikia.nocookie.net/universalprotectioncouncil/images/6/6c/Mace_windu.jpg/revision/latest?cb=20110723131939",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://vignette.wikia.nocookie.net/the-chronicles-of-equestira-and-the-isle-of-berk/images/d/d5/MP-YodaSpecies.png/revision/latest/scale-to-width-down/184?cb=20160506200427",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://vignette.wikia.nocookie.net/villains/images/2/26/Darth_maul2.jpg/revision/latest?cb=20090619200341",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://vignette.wikia.nocookie.net/disney/images/7/78/Star_Wars_The_Last_Jedi_-_Rey.png/revision/latest?cb=20170729181837",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://vignette.wikia.nocookie.net/vsbattles/images/a/aa/Kylo_Ren_Poster.jpg/revision/latest/scale-to-width-down/398?cb=20180429104546",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://vignette.wikia.nocookie.net/starwars/images/a/a3/ANOVOS_Darth_Vader_1.png/revision/latest?cb=20150128225029",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://vignette2.wikia.nocookie.net/disneyvillains/images/a/ac/Palpatine.jpg/revision/latest?cb=20131023231111",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "https://vignette.wikia.nocookie.net/custombarney/images/c/c4/%21%40Q.png/revision/latest?cb=20171005222513",
+      "clicked": false
+    },
+    {
+      "id": 13,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJT_AWJYXrhaWysVCgJ4HmFzWesqshz6N7EVe4EfzGKS8MwgOdDA",
+      "clicked": false
+    },
+    {
+      "id": 14,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX-IVCQFIrczK-Fq8Wb7yN1GzoTjTGNRF-XePgtUgqfeEczKTK",
+      "clicked": false
+    },
+    {
+      "id": 15,
+      "image": "https://i.pinimg.com/236x/ff/eb/18/ffeb185d52a8ce85a5f44b4fa4b94896--star-wars-stuff-star-wars-art.jpg",
+      "clicked": false
+    },
+    {
+      "id": 16,
+      "image": "https://vignette.wikia.nocookie.net/swbloodlines/images/b/b1/C3PO.jpg/revision/latest?cb=20180321171742",
+      "clicked": false
+    },
+    {
+      "id": 17,
+      "image": "https://i.pinimg.com/originals/46/62/dd/4662dd6457db19606c8fcc7ebe31eb1b.jpg",
+      "clicked": false
+    },
+    {
+      "id": 18,
+      "image": "https://vignette.wikia.nocookie.net/starwars/images/e/eb/ArtooTFA2-Fathead.png/revision/latest?cb=20161108040914",
+      "clicked": false
+    }
+  ]
+  
